@@ -1,0 +1,56 @@
+[
+	{
+		"password": "testing",
+		"role": "Admin",
+		"phone": "8122115215",
+		"name": "velmurugan",
+		"active": true,
+		"gbsId": "GBS04531",
+		"email": "velmurugan.t@sella.it"
+	},
+	{
+		"password": "testing",
+		"role": "Publisher",
+		"phone": "987465465",
+		"name": "Amritha",
+		"active": true,
+		"gbsId": "GBS03605",
+		"email": "amritha.santhankrishnan@sella.it"
+	},
+	{
+		"password": "testing",
+		"role": "Admin",
+		"phone": "8454874564",
+		"name": "pugal",
+		"active": true,
+		"gbsId": "GBS02515",
+		"email": "pugal@sella.it"
+	},
+	{
+		"password": "testing",
+		"role": "Admin",
+		"phone": "8454874564",
+		"name": "venkat",
+		"active": true,
+		"gbsId": "GBS04267",
+		"email": "venkat@sella.it"
+	},
+	{
+		"password": "testing",
+		"role": "Admin",
+		"phone": "8454874564",
+		"name": "sathishkumar",
+		"active": true,
+		"gbsId": "GBS04100",
+		"email": "sathish@sella.it"
+	},
+	{
+		"password": "testing",
+		"role": "Admin",
+		"phone": "846545664",
+		"name": "Alagumuthu",
+		"active": true,
+		"gbsId": "GBS02395",
+		"email": "alagu@sella.it"
+	}
+]
